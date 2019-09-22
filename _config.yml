@@ -225,3 +225,5 @@ credits:        true
 #
 # Default:      "User-agent: *"
 robots:         "User-agent: *"
+
+theme: jekyll-theme-minimal
